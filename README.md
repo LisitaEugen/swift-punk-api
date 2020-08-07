@@ -1,2 +1,6 @@
-# swift-punk-api
-Brew Dog beer recipes api generated using open-api for swift.
+# PunkAPI
+
+This is Brewdog Beer Recipes API.  You can find 
+out more about Swagger at 
+[http://swagger.io](http://swagger.io) or on 
+[irc.freenode.net, #swagger](http://swagger.io/irc/).
